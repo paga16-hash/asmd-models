@@ -1,6 +1,5 @@
 package pc.examples
 
-export pc.modelling.PetriNet
 import pc.utils.MSet
 
 object PNMutualExclusion:
